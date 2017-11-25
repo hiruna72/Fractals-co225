@@ -5,7 +5,7 @@ import javax.swing.*;
 class Fractal {     
 
     public static void main(String [] args) { 
-      
+    int g=0;
     JFrame frame = new JFrame("Fractals"); 
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     
